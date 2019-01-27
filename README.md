@@ -1,0 +1,2 @@
+# CodeAndMagic
+JS project
